@@ -8,7 +8,7 @@ It makes capslock more useful by using it as a layer key to access some rudiment
 
 I also remapped the menu key to delete on the main layer because I have no need for a menu key
 
-One important thing I also had to do was map escape to the backtick/tilde key since it required a tricky ``fn+shift+esc`` to type the ~ ``character``.
+One important thing I also had to do was map escape to the backtick/tilde key since it required a tricky ``fn+shift+esc`` to type the ``~`` character.
 
 There is also a helpful shortcut to insert your email address when ``alt+e`` is pressed.
 
